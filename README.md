@@ -1,4 +1,4 @@
-### Hi there 👋
+### ✨ Aaron's Github Profile ✨
 
 <!--
 **th3-k3rnl/th3-k3rnl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
