@@ -7,7 +7,7 @@ I encourage you to explore and experiment with repositories that pique your inte
 
 - 🔭 I'm currently learning [GoLang](https://go.dev/ref/spec) and have a project idea in mind that I will reveal soon . . .
 - 🌱 You can learn more about me at my website, [Aaron Codes](https://aaron-codes.io/). Right now, it's the beginnings of a community-driven blog, dedicated to contributing to and exploring the inner workings of mainstream open-source technologies.
-- 👯 I'm an advocate of open-source and I'm not wedded to any particular language. Each language has been developed for specific reasons, so I'm always seek to use the most appropriate langauge to best solve the problem at hand.
+- 👯 I'm an advocate of open-source and I'm not wedded to any particular language. Each language has been developed for specific reasons, so I'm always seeking to use the most appropriate langauge to best solve the problem at hand.
 
 ### Where you can find me?
 <table>
