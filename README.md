@@ -77,6 +77,7 @@ I encourage you to explore and experiment with repositories that pique your inte
     <a href="https://github.com/AaronCCLloyd/github-stats">
         <img src="https://github.com/AaronCCLloyd/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
         <img src="https://github.com/AaronCCLloyd/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+        <img src="https://github-readme-stats.vercel.app/api?username=AaronCCLloyd&show_icons=true&theme=radical" />
     </a>
 </div>
 
