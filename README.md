@@ -7,7 +7,7 @@
 Welcome to my GitHub space. Feel free to contribute to or fork any public repositories.
 I encourage you to explore and experiment with repositories that pique your interest.
 
-- 🔭 I'm currently learning [GoLang](https://go.dev/ref/spec) and have a project idea in mind that I will reveal soon . . .
+- 🔭 I'm currently working on a new online platform called [Open Source Labs](https://github.com/AaronCCLloyd/OSL-Animation-Engine) and developing animated educational videos that [are scheduled to be published on YouTube](https://www.youtube.com/@aaron-codes) in the next coming year of 2025. Stay tuned!
 - 🌱 You can learn more about me at my website, [Aaron Codes](https://aaron-codes.io/). Right now, it's the beginnings of a community-driven blog, dedicated to contributing to and exploring the inner workings of mainstream open-source technologies.
 - 👯 I'm an advocate of open-source and I'm not wedded to any particular language. Each language has been developed for specific reasons, so I'm always seeking to use the most appropriate langauge to best solve the problem at hand.
 
