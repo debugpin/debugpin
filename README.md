@@ -73,6 +73,9 @@ I encourage you to explore and experiment with repositories that pique your inte
     </tr>
 </table>
 
+<!--Code Wars-->
+![Codewars](https://github.r2v.ch/codewars?user=AaronCCLloyd&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+
 <!--stats-->
 <div>
     <a href="https://github.com/AaronCCLloyd/github-stats">
