@@ -9,13 +9,6 @@ I encourage you to explore and experiment with repositories that pique your inte
 <!--Code Wars-->
 ![Codewars](https://github.r2v.ch/codewars?user=AaronCCLloyd&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
 
-<!--stats-->
-<div>
-    <a href="https://github.com/AaronCCLloyd/github-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=AaronCCLloyd&show_icons=true&theme=radical" />
-    </a>
-</div>
-
 <!--   green snake -->
 ![Aaron's github activity graph](https://raw.githubusercontent.com/AaronCCLloyd/AaronCCLloyd/output/github-contribution-grid-snake.svg)
 
