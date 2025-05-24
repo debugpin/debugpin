@@ -8,8 +8,3 @@ I encourage you to explore and experiment with repositories that pique your inte
 
 <!--Code Wars-->
 ![Codewars](https://github.r2v.ch/codewars?user=AaronCCLloyd&name=true&top_languages=true)
-
-<!--   green snake -->
-![Aaron's github activity graph](https://raw.githubusercontent.com/AaronCCLloyd/AaronCCLloyd/output/github-contribution-grid-snake.svg)
-
-![Animated 3D activity](profile-3d-contrib/profile-night-view.svg)
