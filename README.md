@@ -1,7 +1,5 @@
 ### ✨ Aaron's Github Profile ✨
 
-[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/AaronCCLloyd)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=650&lines=This+is+Aaron+Codes!;Exploring+the+internals+of+mainstream+technologies!;Contributing+to+open-source!)](https://git.io/typing-svg)
 
 Welcome to my GitHub space. Feel free to contribute to or fork any public repositories.
