@@ -17,44 +17,9 @@ I encourage you to explore and experiment with repositories that pique your inte
         <th>Source</th>
     </tr>
     <tr>
-        <td>Multimedia</td>
-        <td>
-            <div>
-                <a href="https://www.twitch.tv/aaroncodes">
-                    <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" />
-                </a>
-                <a href="https://www.youtube.com/@aaron-codes">
-                    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
-                </a>
-            </div>
-        </td>
-    </tr>
-    <tr>
-        <td>Forums</td>
-        <td>
-            <div>
-                <a href="https://discordapp.com/users/848251614514774056">
-                    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
-                </a>
-                <a href="https://x.com/loadandstore">
-                    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
-                </a>
-                <a href="https://www.goodreads.com/user/show/100747462-aaron-lloyd">
-                    <img src="https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213" />
-                </a>
-                <a href="https://www.reddit.com/user/RelationOk9127/">
-                    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" />
-                </a>
-            </div>
-        </td>
-    </tr>
-    <tr>
         <td>Blogs</td>
         <td>
             <div>
-                <a href="https://dev.to/aaron-codes">
-                    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
-                </a>
                 <a href="https://medium.com/@aaroncclloyd">
                     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
                 </a>
