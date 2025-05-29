@@ -8,3 +8,5 @@ I encourage you to explore and experiment with repositories that pique your inte
 
 <!--Code Wars-->
 ![Codewars](https://github.r2v.ch/codewars?user=AaronCCLloyd&name=true&top_languages=true)
+
+![NightViewCommitStats](profile-3d-contrib/profile-night-view.svg)
