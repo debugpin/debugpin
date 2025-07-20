@@ -8,7 +8,7 @@ I encourage you to explore and experiment with repositories that pique your inte
 
 ## LeetCode
 
-![Aaron Lloyd's LeetCode stats dark](https://leetcode-badge-sage.vercel.app/badge/aaroncclloyd?theme=dark&bgColor=282828)
+![LeetCode Stats](https://leetcard.jacoblin.cool/aaroncclloyd?theme=dark&font=Maven%20Pro&ext=contest)
 
 ## Codewars
 
