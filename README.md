@@ -10,8 +10,8 @@ I encourage you to explore and experiment with repositories that pique your inte
 
 ## LeetCode
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/aaroncclloyd?theme=dark&font=Maven%20Pro&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/aaroncclloyd?theme=light&font=Maven%20Pro&ext=contest)
 
 ## Codewars
 
-![Codewars](https://github.r2v.ch/codewars?user=AaronCCLloyd&name=true&top_languages=true)
+![Codewars](https://github.r2v.ch/codewars?user=AaronCCLloyd&name=true&top_languages=true&theme=light)
