@@ -8,10 +8,6 @@ I encourage you to explore and experiment with repositories that pique your inte
 - 👯 I'm an advocate of open-source and I'm not wedded to any particular language, technology or framework. Each solution is founded on different motivations, intentions and purposes, so I'm always seeking to use the most appropriate product, service or tool that best qualifies to solve the problem at hand.
 - 🌱 You can learn more about me at my website, [BrownBear](https://brown-bear.io/).
 
-## LeetCode
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/aaroncclloyd?theme=light&font=Maven%20Pro&ext=contest)
-
 ## Codewars
 
 ![Codewars](https://github.r2v.ch/codewars?user=AaronCCLloyd&name=true&top_languages=true&theme=light)
