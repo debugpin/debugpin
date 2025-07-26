@@ -10,4 +10,4 @@ I encourage you to explore and experiment with repositories that pique your inte
 
 ## Codewars
 
-![Codewars](https://github.r2v.ch/codewars?user=AaronCCLloyd&name=true&top_languages=true&theme=light)
+![Codewars](https://github.r2v.ch/codewars?user=AaronCCLloyd&name=true&top_languages=true&theme=dark)
