@@ -1,6 +1,6 @@
 # ✨ DebugPin's Github Profile ✨
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debugpin\&layout=donut&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debugpin\&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Codewars
 
